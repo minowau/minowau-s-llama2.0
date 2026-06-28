@@ -4,7 +4,7 @@ This repository contains a custom implementation of the LLaMA 2 model, as descri
 Foundation and Fine-Tuned Chat Models" ([ArXiv](https://arxiv.org/abs/2307.09288)). This implementation focuses on
 reproducing and extending some of the key features that distinguish LLaMA 2, including RMS-Normalization, the SwiGLU
 activation function, Rotary Positional Embeddings (RoPE), increased context length with Grouped-Query Attention (GQA),
-and the KV-caching technique.
+and the KV-caching technique in the system.
 
 ## Introduction 📘
 
